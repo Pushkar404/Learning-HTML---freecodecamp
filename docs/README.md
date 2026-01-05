@@ -11,4 +11,4 @@ course by freeCodeCamp.
 
 Built for practice and learning HTML basics. 🌮
 
-Link: https://wwww.the-little-taco-shop-website.vercel.app
+Link: https://www.the-little-taco-shop-website.vercel.app
